@@ -1,0 +1,2 @@
+# Video_Script_Generator
+一个简易的短视频脚本生成器
